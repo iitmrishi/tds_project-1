@@ -1,0 +1,11 @@
+
+venv/
+_pycache_/
+*.pyc
+.env
+
+downloaded_threads/
+markdown_files/
+auth.json
+.DS_Store
+Thumbs.db
